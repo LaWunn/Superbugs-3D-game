@@ -7,3 +7,7 @@
 5) If the game reaches a certain threshold of points, you lose.
 6) If two different bacterias grow too big and reach the threshold, you lose.
 7) You win if all bacteria are poisoned before any two different bacteria reach the threshold.
+
+**Installation Guide**
+Step 1) Download the files.
+Step 2) Launch the file “index”. Game will load on your default browser.
