@@ -11,3 +11,7 @@
 **Installation Guide**
 1) Download the files.
 2) Launch the file “index”. Game will load on your default browser.
+
+![image](https://github.com/LaWunn/Superbugs-3D-game/assets/77289968/b14fe761-f925-454d-a2cf-b53c4e90a006)
+![image](https://github.com/LaWunn/Superbugs-3D-game/assets/77289968/b32c112b-3f7a-440b-a4b0-efec67dddafa)
+![image](https://github.com/LaWunn/Superbugs-3D-game/assets/77289968/dcae217a-811d-4505-a1d3-2f12eeb3da85)
