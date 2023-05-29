@@ -9,5 +9,5 @@
 7) You win if all bacteria are poisoned before any two different bacteria reach the threshold.
 
 **Installation Guide**
-Step 1) Download the files.
-Step 2) Launch the file “index”. Game will load on your default browser.
+1) Download the files.
+2) Launch the file “index”. Game will load on your default browser.
