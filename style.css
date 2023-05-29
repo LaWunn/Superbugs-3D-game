@@ -1,0 +1,15 @@
+#canvasContainer {
+  padding-bottom: 35em;
+}
+canvas {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#gameSurface {
+  z-index: 1;
+}
+#particles {
+  pointer-events: none;
+  z-index: 2;
+}
